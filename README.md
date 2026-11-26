@@ -58,7 +58,7 @@ Week 5-Charity Nduati-Data Science/
 
 1. **Clone the repository and enter the folder:**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/CharityNduati/Morocco-Electricity-Consumption-and-Environmental-Factors-Analysis
    cd "Week 5-Charity Nduati-Data Science"
    ```
 2. **Install required libraries:**
